@@ -1,0 +1,1561 @@
+{
+	"snippet-format":"snippet",
+	"total":660,
+	"start":1,
+	"page-length":10,
+	"results":[
+		{
+			"index":1,
+			"uri":"/odesi/scf-64M0002-E-1994-hife.xml",
+			"path":"fn:doc(\"/odesi/scf-64M0002-E-1994-hife.xml\")/codeBook",
+			"href":"/v1/documents?uri=%2Fodesi%2Fscf-64M0002-E-1994-hife.xml",
+			"matches":[
+				{
+					"path":"fn:doc(\"/odesi/scf-64M0002-E-1994-hife.xml\")/codeBook/dataDscr/var[50]/catgry[1]/labl",
+					"match-text":[
+						"\nSTEAM OR HOT ",
+						{
+							"highlight":"WATER"
+						},
+						" FURNACE\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/scf-64M0002-E-1994-hife.xml\")/codeBook/dataDscr/var[54]/labl",
+					"match-text":[
+						"\nTYPE OF ",
+						{
+							"highlight":"WATER"
+						},
+						" SUPPLY\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/scf-64M0002-E-1994-hife.xml\")/codeBook/dataDscr/var[54]/catgry[1]/labl",
+					"match-text":[
+						"\nNO PIPED ",
+						{
+							"highlight":"WATER"
+						},
+						" RUNNING\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/scf-64M0002-E-1994-hife.xml\")/codeBook/dataDscr/var[54]/catgry[3]/labl",
+					"match-text":[
+						"\nCOLD ",
+						{
+							"highlight":"WATER"
+						},
+						" ONLY PIPED INSIDE\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/scf-64M0002-E-1994-hife.xml\")/codeBook/dataDscr/var[54]/notes",
+					"match-text":[
+						"\nThis variable indicates the type of ",
+						{
+							"highlight":"water"
+						},
+						" supply the dwelling receives.  Piped ",
+						{
+							"highlight":"water"
+						},
+						" means "
+					]
+				}
+			],
+			"metadata":[
+				{
+					"abstract":"\nThe Survey of Consumer Finances (SCF) is conducted annually to obtain work experience and income information from Canadian households. The Survey provides up-to-date information on the distribution and sources of income, before and after taxes, for families and individuals. With this file, users may identify specific family types, such as two-parent and lone-parent families. Information is also provided on earnings, transfers, and total income for the head and the spouse of the census family unit, as well as personal and labour-related characteristics.\n\n<p>This reference year for this file is 1993.</p>\n\n<p>Commencing with the 1998 microdata files, annual cross-sectional income data will be sourced from the Survey of Labour and Income Dynamics (SLID).</p>\n",
+					"metadata-type":"element"
+				},
+				{
+					"producerLocation":"\nQueen's University, Kingston, Ontario, Canada\n<br>\nUniversity of Guelph, Guelph, Ontario, Canada\n",
+					"metadata-type":"element"
+				},
+				{
+					"producerLocation":"\nStatistics Canada, Ottawa, Ontario, Canada\n",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"benefits",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"dwelling",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"earnings",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"economic status",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"education",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"employment",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"family",
+					"metadata-type":"element"
+				},
+				{
+					"author":"\nStatistics Canada. Household Surveys Division.\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"affiliation":"Statistics Canada",
+					"metadata-type":"constraint"
+				},
+				{
+					"producer":"\nStatistics Canada\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"series":"Survey of Consumer Finances",
+					"metadata-type":"constraint"
+				},
+				{
+					"date":"1994",
+					"metadata-type":"constraint"
+				},
+				{
+					"title":"\nSurvey of Consumer Finances, 1994 [Canada]: Household Income Facilities and Equipment and Environment Survey\n",
+					"metadata-type":"constraint"
+				}
+			]
+		},
+		{
+			"index":2,
+			"uri":"/odesi/cora-eiem-E-1998.xml",
+			"path":"fn:doc(\"/odesi/cora-eiem-E-1998.xml\")/codeBook",
+			"href":"/v1/documents?uri=%2Fodesi%2Fcora-eiem-E-1998.xml",
+			"matches":[
+				{
+					"path":"fn:doc(\"/odesi/cora-eiem-E-1998.xml\")/codeBook/dataDscr/var[6]/txt",
+					"match-text":[
+						"\n1 \"Nuclear power\" 2 \"",
+						{
+							"highlight":"Water"
+						},
+						" power\" 3 \"Coal-fired\" 4 \"Natural gas-fired\" 5 \"Oil-fired\"..."
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/cora-eiem-E-1998.xml\")/codeBook/dataDscr/var[6]/catgry[2]/labl",
+					"match-text":[
+						"\n",
+						{
+							"highlight":"Water"
+						},
+						" power\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/cora-eiem-E-1998.xml\")/codeBook/dataDscr/var[7]/labl",
+					"match-text":[
+						"...in the natural environment including the air, ",
+						{
+							"highlight":"water"
+						},
+						", land, and plants and animals...."
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/cora-eiem-E-1998.xml\")/codeBook/dataDscr/var[7]/qstn/qstnLit",
+					"match-text":[
+						"...",
+						{
+							"highlight":"water"
+						},
+						"..."
+					]
+				}
+			],
+			"metadata":[
+				{
+					"abstract":"\nEnvironics International Environmental Monitors (EIEM) is a syndicated annual survey of global public opinion on a variety of environmental and natural resource issues. It is based on public opinion surveys carried out in 24+ countries around the world, and conducted since 1997.\n\nThe findings of the 1998 Survey are based on the results of face-to face or telephone interviews with representative samples of  about 1,000 citizens, in each of 30 countries on all continents, representing over 68 percent of the world's population.  \n\nEnvironics 1998 International Environmental Monitor survey  was conducted in the following countries: Argentina,  Australia, Brazil, Canada, Chile, China, Colombia, Finland, France, Germany, Great-Britain, Greece, Hungary, India, Indonesia, Italy, Japan, Kazakhstan, Korea, Mexico,  New Zealand, Nigeria, Poland, Russia, Spain, South Africa, Turkey, United States, Uraguay, Venezuela.\n\nResearch was conducted by respected social research institutes in each country between January 21, 1998 and May 26, 1998. \nIn Canada, the survey was conducted by Environics Research Group Ltd.  It consisted of a nation-wide telephone survey with a sample of 1,500 individuals, 18 years and older carried out between January 21 and February 4, 1998.\n\nSome of the important topics in the EIEM 1998 are:\n-Environmental Concerns\n-Energy Issues\n-Views on Technology\n-Personal Action\n-Governance Issues\n-Business and the Environment\n",
+					"metadata-type":"element"
+				},
+				{
+					"author":"\nEnvironics\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"affiliation":"Environics Research Group, Toronto, ON",
+					"metadata-type":"constraint"
+				},
+				{
+					"producer":"\nEnvironics\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"series":"Environics International Environmental Monitor",
+					"metadata-type":"constraint"
+				},
+				{
+					"date":"1998",
+					"metadata-type":"constraint"
+				},
+				{
+					"title":"\nEnvironics International Environmental Monitor, 1998\n",
+					"metadata-type":"constraint"
+				}
+			]
+		},
+		{
+			"index":3,
+			"uri":"/odesi/cipo-241-E-1955-02.xml",
+			"path":"fn:doc(\"/odesi/cipo-241-E-1955-02.xml\")/codeBook",
+			"href":"/v1/documents?uri=%2Fodesi%2Fcipo-241-E-1955-02.xml",
+			"matches":[
+				{
+					"path":"fn:doc(\"/odesi/cipo-241-E-1955-02.xml\")/codeBook/dataDscr/var[23]/labl",
+					"match-text":[
+						"\nWHY SUMMERS CHANGE-",
+						{
+							"highlight":"WATER"
+						},
+						" RELATED\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/cipo-241-E-1955-02.xml\")/codeBook/dataDscr/var[23]/notes",
+					"match-text":[
+						"...WHAT DO YOU THINK IS THE MAIN CAUSE OF THIS\" INCLUDED IN THIS VARIABLE: [",
+						{
+							"highlight":"WATER"
+						},
+						" RELATED]\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/cipo-241-E-1955-02.xml\")/codeBook/dataDscr/var[101]/labl",
+					"match-text":[
+						"\nCAUSING THE FRICTION-",
+						{
+							"highlight":"WATER"
+						},
+						" SYSTEMS\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/cipo-241-E-1955-02.xml\")/codeBook/dataDscr/var[101]/qstn/qstnLit",
+					"match-text":[
+						"...the United States? ",
+						{
+							"highlight":"Water"
+						},
+						" systems..."
+					]
+				}
+			],
+			"metadata":[
+				{
+					"abstract":"\n<p>This Gallup poll aims to collect the opinions of Canadians, with regard to such subjects as politics, climate change, current events and international relations.  The respondents were also asked questions so they could be sorted into geographic, demographic and social groups.</p>\n\n<p>Topics of interest include: accessibility of University education; the C.C.F. party; car ownership; compulsory military duty; climate change; family problems; the federal election; immigration; international relations; the Liberal party; phone ownership; preferred political party; population size; professional theatre attendance; the Progressive Conservative party; prosperity of Canada; union membership; United States; and voting behaviour.</p>\n\nBasic demographic variables are also included.\n",
+					"metadata-type":"element"
+				},
+				{
+					"producerLocation":"\nCarleton University, Ottawa, Ontario, Canada\n",
+					"metadata-type":"element"
+				},
+				{
+					"producerLocation":"\nGallup Canada Inc., Toronto, Ontario, Canada\n",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"accessibility of university education",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"car ownership",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"ccf party",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"climate change",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"compulsory military duty",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"family problems",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"federal election",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"united states",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"voting behaviour",
+					"metadata-type":"element"
+				},
+				{
+					"accsPlac_URI":"http://www.library.carleton.ca/find/data/gallup-canada",
+					"metadata-type":"attribute"
+				},
+				{
+					"author":"\nGallup Canada Inc.\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"producer":"\nGallup Canada Inc.\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"series":"Canadian Gallup Polls",
+					"metadata-type":"constraint"
+				},
+				{
+					"date":"1955",
+					"metadata-type":"constraint"
+				},
+				{
+					"title":"\nCanadian Gallup Poll, February 1955, #241           \n",
+					"metadata-type":"constraint"
+				}
+			]
+		},
+		{
+			"index":4,
+			"uri":"/odesi/its-66M00010-E-2002-ca.xml",
+			"path":"fn:doc(\"/odesi/its-66M00010-E-2002-ca.xml\")/codeBook",
+			"href":"/v1/documents?uri=%2Fodesi%2Fits-66M00010-E-2002-ca.xml",
+			"matches":[
+				{
+					"path":"fn:doc(\"/odesi/its-66M00010-E-2002-ca.xml\")/codeBook/dataDscr/var[34]/catgry[14]/labl",
+					"match-text":[
+						"\nOTHER ",
+						{
+							"highlight":"WATER"
+						},
+						" SPORTS\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/its-66M00010-E-2002-ca.xml\")/codeBook/dataDscr/var[35]/catgry[14]/labl",
+					"match-text":[
+						"\nOTHER ",
+						{
+							"highlight":"WATER"
+						},
+						" SPORTS\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/its-66M00010-E-2002-ca.xml\")/codeBook/dataDscr/var[36]/catgry[14]/labl",
+					"match-text":[
+						"\nOTHER ",
+						{
+							"highlight":"WATER"
+						},
+						" SPORTS\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/its-66M00010-E-2002-ca.xml\")/codeBook/dataDscr/var[37]/catgry[14]/labl",
+					"match-text":[
+						"\nOTHER ",
+						{
+							"highlight":"WATER"
+						},
+						" SPORTS\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/its-66M00010-E-2002-ca.xml\")/codeBook/dataDscr/var[38]/catgry[14]/labl",
+					"match-text":[
+						"\nOTHER ",
+						{
+							"highlight":"WATER"
+						},
+						" SPORTS\n"
+					]
+				}
+			],
+			"metadata":[
+				{
+					"abstract":"\nThe International Travel Survey (ITS) is an ongoing survey conducted by Statistics Canada since the 1920s to\nmeet the requirements of the Canadian System of National Accounts (Balance of Payments (BOP)). Through\nthe years, the need for detailed characteristics of travellers for market research and industry planning was\ngradually incorporated in the survey. Today, the ITS provides a full range of statistics on the volume of\ninternational travellers and detailed characteristics of their trips such as expenditures, activities, places visited\nand length of stay.\n\nThe ITS covers both Canadian residents returning from trips outside Canada and international visitors to\nCanada. In addition to fulfilling BOP requirements, the ITS is also being used by the Tourism Satellite\nAccount (TSA), Customs Canada, the Canadian tourism Commission (CTC), provincial tourism agencies, the\nUnited States Department of Commerce and a number of private sector industries. The ITS is also used for\nreporting to international organizations such as the World Tourism Organization (WTO), the Organization\nfor Economic Co-operation and Development and the Pacific-Asia Tourism Association.\n",
+					"metadata-type":"element"
+				},
+				{
+					"producerLocation":"\nOntario Council of University LIbraries, University of Toronto, Toronto, Ontario, Canada\n",
+					"metadata-type":"element"
+				},
+				{
+					"producerLocation":"\nStatistics Canada, Ottawa, ON, Canada\n",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"accommodation",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"activities",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"age group",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"destination",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"ports of entry and exit",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"purpose of trip",
+					"metadata-type":"element"
+				},
+				{
+					"author":"\nStatistics Canada. Culture, Tourism and the Centre for Education Statistics\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"affiliation":"Statistics Canada",
+					"metadata-type":"constraint"
+				},
+				{
+					"producer":"\nStatistics Canada\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"prodDate":"\n2003\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"series":"International Travel Survey",
+					"metadata-type":"constraint"
+				},
+				{
+					"date":"2002",
+					"metadata-type":"constraint"
+				},
+				{
+					"title":"\nInternational Travel Survey, 2002: Canadian Resident Trips Abroad (United States)\n",
+					"metadata-type":"constraint"
+				}
+			]
+		},
+		{
+			"index":5,
+			"uri":"/odesi/cora-egim-E-2001-update.xml",
+			"path":"fn:doc(\"/odesi/cora-egim-E-2001-update.xml\")/codeBook",
+			"href":"/v1/documents?uri=%2Fodesi%2Fcora-egim-E-2001-update.xml",
+			"matches":[
+				{
+					"path":"fn:doc(\"/odesi/cora-egim-E-2001-update.xml\")/codeBook/dataDscr/var[7]/labl",
+					"match-text":[
+						"...it have no effect either way? b) The environmental quality of your air and ",
+						{
+							"highlight":"water"
+						},
+						"\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/cora-egim-E-2001-update.xml\")/codeBook/dataDscr/var[7]/qstn/qstnLit",
+					"match-text":[
+						"...it have no effect either way? b) The environmental quality of your air and ",
+						{
+							"highlight":"water"
+						},
+						"\n"
+					]
+				}
+			],
+			"metadata":[
+				{
+					"abstract":"\nThe findings of the Environics Global Issues Monitor, 2001 Survey are based on the results of face-to face or telephone interviews  with representative samples of about 1,000 citizens in each of 20 countries on five continents. \n\nEnvironics 2001 Global Issues Monitor survey  was conducted in the following countries: Argentina, Brazil, Canada, Chile, China, France, Germany, Great Britain, India, Indonesia, Italy, Japan, Mexico, Nigeria, Russia, South Korea, Spain, Sweden, Turkey, United States.\n\nResearch was conducted by respected social research institutes in each country between November 23, 2000 and February 9, 2001. \nIn Canada, the survey was conducted by Environics Research Group Ltd.  It consisted of a nation-wide telephone survey with a sample of 1,015 individuals, 18 years and older carried out between December 11 and December 19, 2000.\n\nSome of the important topics in the EGIM 2001 are:\n- Quality of Life\n- Key Issues\n- Trust in Institutions\n- Globalization\n- Global Governance\n- Population Analysis\n",
+					"metadata-type":"element"
+				},
+				{
+					"author":"\nEnvironics\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"affiliation":"Environics Research Group, Toronto, ON",
+					"metadata-type":"constraint"
+				},
+				{
+					"producer":"\nEnvironics\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"series":"Environics Global Issue Monitor",
+					"metadata-type":"constraint"
+				},
+				{
+					"series":"Environics Global Issues Monitor EGIM",
+					"metadata-type":"constraint"
+				},
+				{
+					"date":"2000",
+					"metadata-type":"constraint"
+				},
+				{
+					"title":"\nEnvironics Global Issues Monitor, 2001\n",
+					"metadata-type":"constraint"
+				}
+			]
+		},
+		{
+			"index":6,
+			"uri":"/odesi/cora-eem1992-E-1992-4.xml",
+			"path":"fn:doc(\"/odesi/cora-eem1992-E-1992-4.xml\")/codeBook",
+			"href":"/v1/documents?uri=%2Fodesi%2Fcora-eem1992-E-1992-4.xml",
+			"matches":[
+				{
+					"path":"fn:doc(\"/odesi/cora-eem1992-E-1992-4.xml\")/codeBook/dataDscr/varGrp[10]/labl",
+					"match-text":[
+						"\n",
+						{
+							"highlight":"Water"
+						},
+						" Resources\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/cora-eem1992-E-1992-4.xml\")/codeBook/dataDscr/var[19]/labl",
+					"match-text":[
+						"\n[EEM924-Q3G] Concerned about: quality of ",
+						{
+							"highlight":"water"
+						},
+						"\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/cora-eem1992-E-1992-4.xml\")/codeBook/dataDscr/var[19]/qstn/qstnLit",
+					"match-text":[
+						"...Are you very concerned, somewhat concerned, or not very concerned about the quality of ",
+						{
+							"highlight":"water"
+						},
+						"?\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/cora-eem1992-E-1992-4.xml\")/codeBook/dataDscr/var[44]/labl",
+					"match-text":[
+						"...decisions: Bought bottled ",
+						{
+							"highlight":"water"
+						},
+						"..."
+					]
+				}
+			],
+			"metadata":[
+				{
+					"abstract":"\nEnvironics Environmental Monitor (EEM) is a public opinion survey of Canadian citizens on attitudes toward environmental and natural resource issues. Currently, data surveys are available through the Canadian Opinion Research Archive from 1987. Environics Environmental Monitor, 1992-4 is a telephone survey of 1,507 adult Canadians conducted during the period from December 18, 1992 to January 28, 1993.\n",
+					"metadata-type":"element"
+				},
+				{
+					"author":"\nEnvironics\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"affiliation":"Environics Research Group, Toronto, ON",
+					"metadata-type":"constraint"
+				},
+				{
+					"producer":"\nEnvironics\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"series":"Environics Environmental Monitor",
+					"metadata-type":"constraint"
+				},
+				{
+					"date":"1992",
+					"metadata-type":"constraint"
+				},
+				{
+					"title":"\nEnvironics Environmental Monitor, 1992-4\n",
+					"metadata-type":"constraint"
+				}
+			]
+		},
+		{
+			"index":7,
+			"uri":"/odesi/its-66M00010-E-1990-crto.xml",
+			"path":"fn:doc(\"/odesi/its-66M00010-E-1990-crto.xml\")/codeBook",
+			"href":"/v1/documents?uri=%2Fodesi%2Fits-66M00010-E-1990-crto.xml",
+			"matches":[
+				{
+					"path":"fn:doc(\"/odesi/its-66M00010-E-1990-crto.xml\")/codeBook/dataDscr/var[34]/catgry[14]/labl",
+					"match-text":[
+						"\nOTHER ",
+						{
+							"highlight":"WATER"
+						},
+						" SPORTS\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/its-66M00010-E-1990-crto.xml\")/codeBook/dataDscr/var[35]/catgry[14]/labl",
+					"match-text":[
+						"\nOTHER ",
+						{
+							"highlight":"WATER"
+						},
+						" SPORTS\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/its-66M00010-E-1990-crto.xml\")/codeBook/dataDscr/var[36]/catgry[14]/labl",
+					"match-text":[
+						"\nOTHER ",
+						{
+							"highlight":"WATER"
+						},
+						" SPORTS\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/its-66M00010-E-1990-crto.xml\")/codeBook/dataDscr/var[37]/catgry[14]/labl",
+					"match-text":[
+						"\nOTHER ",
+						{
+							"highlight":"WATER"
+						},
+						" SPORTS\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/its-66M00010-E-1990-crto.xml\")/codeBook/dataDscr/var[38]/catgry[14]/labl",
+					"match-text":[
+						"\nOTHER ",
+						{
+							"highlight":"WATER"
+						},
+						" SPORTS\n"
+					]
+				}
+			],
+			"metadata":[
+				{
+					"abstract":"\nThe International Travel Survey (ITS) is an ongoing survey conducted by Statistics Canada since the 1920s to meet the requirements of the Canadian System of National Accounts (Balance of Payments (BOP). Through the years, the need for detailed characteristics of travellers for market research and industry planning was gradually incorporated in the survey. Today, the ITS provides a full range of statistics on the volume of international travellers and detailed characteristics of their trips such as expenditures, activities, places visited and length of stay. The ITS covers both Canadian residents returning from trips outside Canada and international visitors to Canada. In addition to fulfilling BOP requirements, the ITS is also being used by the Tourism Satellite Account (TSA), Customs Canada, the Canadian tourism Commission (CTC), provincial tourism agencies, the United States Department of Commerce and a number of private sector industries. The ITS is also used for reporting to international organizations such as the World Tourism Organization (WTO), the Organization for Economic Co-operation and Development and the Pacific-Asia Tourism Association.\n",
+					"metadata-type":"element"
+				},
+				{
+					"producerLocation":"\nScholars Portal, Ontario Council of University Libraries, Toronto, Ontario, Canada\n",
+					"metadata-type":"element"
+				},
+				{
+					"producerLocation":"\nOttawa, Ontario: Statistics Canada\n",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"travel",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"overseas",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"trips",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"visiting",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"vacation",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"travelling",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"border crossing",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"ports",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"destination",
+					"metadata-type":"element"
+				},
+				{
+					"author":"\nStatistics Canada\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"producer":"\nStatistics Canada\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"series":"International Travel Survey",
+					"metadata-type":"constraint"
+				},
+				{
+					"series":"International Travel Survey ITS",
+					"metadata-type":"constraint"
+				},
+				{
+					"date":"1990",
+					"metadata-type":"constraint"
+				},
+				{
+					"title":"\nInternational Travel Survey, 1990: Canadian Resident Trips Overseas\n",
+					"metadata-type":"constraint"
+				}
+			]
+		},
+		{
+			"index":8,
+			"uri":"/odesi/famex-62M0001-E-1974.xml",
+			"path":"fn:doc(\"/odesi/famex-62M0001-E-1974.xml\")/codeBook",
+			"href":"/v1/documents?uri=%2Fodesi%2Ffamex-62M0001-E-1974.xml",
+			"matches":[
+				{
+					"path":"fn:doc(\"/odesi/famex-62M0001-E-1974.xml\")/codeBook/stdyDscr/stdyInfo/subject/keyword[87]",
+					"match-text":[
+						{
+							"highlight":"water"
+						}
+					]
+				}
+			],
+			"metadata":[
+				{
+					"abstract":"\n<p>This public-use microdata file is from the 1974 Canadian Family Expenditure Survey data.  The survey was carried out in January, February and March 1975 and refers to calendar year 1974.</p>\n<p>The Survey of Family Expenditure of 1974 is the first survey since 1972 and was designed to provide information for persons living in private households in 14 major urban centres of  Canada.  Users should note that data on detailed food expenditure for 1974 were collected in a separate survey (see Statistics Canada Catalogue Number 62-542).  The Food Survey had the same coverage as the Family Expenditure Survey of 1974.</p>\n",
+					"metadata-type":"element"
+				},
+				{
+					"producerLocation":"\nQueen's University, Kingston, Ontario, Canada\n",
+					"metadata-type":"element"
+				},
+				{
+					"producerLocation":"\nStatistics Canada, Ottawa, Ontario, Canada\n",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"additions",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"air conditioning",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"air transport",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"snowmobiles",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"social assistance",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"sports",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"stoves",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"taxes",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"telephones",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"televisions",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"tenants",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"tires",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"tobacco",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"toiletries",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"toys",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"trailors",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"transport",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"traveller accommodation",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"trucks and vans",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"unemployment insurance",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"unions",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"urban",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"vacation homes",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"vacuum cleaner",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"videos",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"wages",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"washing machines",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"water",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"wines",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"wood",
+					"metadata-type":"element"
+				},
+				{
+					"author":"\nStatistics Canada. Household Surveys Division\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"producer":"\nStatistics Canada\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"prodDate":"\n1994-07-05\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"series":"Survey of Family Expenditure FAMEX",
+					"metadata-type":"constraint"
+				},
+				{
+					"date":"1974",
+					"metadata-type":"constraint"
+				},
+				{
+					"title":"\nSurvey of Family Expenditure, 1974 [Canada]\n",
+					"metadata-type":"constraint"
+				}
+			]
+		},
+		{
+			"index":9,
+			"uri":"/odesi/scf-64M0002-E-1983-hife.xml",
+			"path":"fn:doc(\"/odesi/scf-64M0002-E-1983-hife.xml\")/codeBook",
+			"href":"/v1/documents?uri=%2Fodesi%2Fscf-64M0002-E-1983-hife.xml",
+			"matches":[
+				{
+					"path":"fn:doc(\"/odesi/scf-64M0002-E-1983-hife.xml\")/codeBook/stdyDscr/stdyInfo/subject/keyword[17]",
+					"match-text":[
+						{
+							"highlight":"water"
+						},
+						" supply"
+					]
+				}
+			],
+			"metadata":[
+				{
+					"abstract":"\n<p>The Survey of Consumer Finances (SCF) is conducted annually to obtain work experience and income information from Canadian households.  The Survey provides up-to-date information on the distribution and sources of income, before and after taxes, for families and individuals.  With this file, users may identify specific family types, such as two-parent families and lone-parent families.  Information is also provided on earnings, transfers, and total income for the head and the spouse of the census family unit, as well as personal and labour-related characteristics.</p>\n\n<p>This reference year for this file is 1982.</p>\n",
+					"metadata-type":"element"
+				},
+				{
+					"producerLocation":"\nCarleton University, Ottawa, Ontario, Canada<br />\n\nQueen's Unviersity, Kingston, Ontario, Canada<br />\nOntario Council of University Libraries, University of Toronto, Toronto, Ontario, Canada\n",
+					"metadata-type":"element"
+				},
+				{
+					"producerLocation":"\nStatistics Canada, Ottawa, Ontario, Canada\n",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"appliances",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"computer",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"dwelling",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"economic family",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"employment",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"farm",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"fuel sources",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"income",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"low income",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"radio",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"rent",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"selfemployment",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"labour force status",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"telephone",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"television",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"toilet facilities",
+					"metadata-type":"element"
+				},
+				{
+					"keyword":"water supply",
+					"metadata-type":"element"
+				},
+				{
+					"author":"\nHousehold Surveys Division\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"affiliation":"Statistics Canada",
+					"metadata-type":"constraint"
+				},
+				{
+					"producer":"\nStatistics Canada\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"prodDate":"\n1984\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"series":"Survey of Consumer Finance",
+					"metadata-type":"constraint"
+				},
+				{
+					"date":"1983",
+					"metadata-type":"constraint"
+				},
+				{
+					"title":"\nSurvey of Consumer Finances, 1983 [Canada]: Household Income Facilities and Equipment\n",
+					"metadata-type":"constraint"
+				}
+			]
+		},
+		{
+			"index":10,
+			"uri":"/odesi/cora-efc2011-E-2011.xml",
+			"path":"fn:doc(\"/odesi/cora-efc2011-E-2011.xml\")/codeBook",
+			"href":"/v1/documents?uri=%2Fodesi%2Fcora-efc2011-E-2011.xml",
+			"matches":[
+				{
+					"path":"fn:doc(\"/odesi/cora-efc2011-E-2011.xml\")/codeBook/dataDscr/var[113]/catgry[65]/catValu",
+					"match-text":[
+						"\nUnequal distribution of ",
+						{
+							"highlight":"water"
+						},
+						" and food\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/cora-efc2011-E-2011.xml\")/codeBook/dataDscr/var[113]/catgry[204]/catValu",
+					"match-text":[
+						"\nresources /p food & ",
+						{
+							"highlight":"water"
+						},
+						"\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/cora-efc2011-E-2011.xml\")/codeBook/dataDscr/var[113]/catgry[223]/catValu",
+					"match-text":[
+						"\n",
+						{
+							"highlight":"water"
+						},
+						" shortage\n"
+					]
+				},
+				{
+					"path":"fn:doc(\"/odesi/cora-efc2011-E-2011.xml\")/codeBook/dataDscr/var[117]/catgry[244]/catValu",
+					"match-text":[
+						"\n",
+						{
+							"highlight":"water"
+						},
+						"\n"
+					]
+				}
+			],
+			"metadata":[
+				{
+					"abstract":"\nThe second annual Focus Canada survey was conducted in fall 2011 to take the pulse of Canadians on a wide range of relevant policy areas and issues facing the country, updating key trends and exploring new issues such as public sector unions, the effectiveness of governments and the role of religion in the lives of Canadians today. \nThe 2011 survey was conducted by Environics Research and was based on telephone interviews with a representative sample of 1,500 Canadians (aged 18 and over) between November 21 and December 14, 2011. \nThis year's survey received sponsorship support from the Canadian Opinion Research Archive (CORA) and the S-Vox Foundation.\n",
+					"metadata-type":"element"
+				},
+				{
+					"author":"\nEnvironics\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"affiliation":"Environics Research Group, Toronto, ON",
+					"metadata-type":"constraint"
+				},
+				{
+					"producer":"\nEnvironics\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"prodDate":"\n2012-03-07\n",
+					"metadata-type":"constraint"
+				},
+				{
+					"series":"Environics Focus Canada",
+					"metadata-type":"constraint"
+				},
+				{
+					"date":"2011",
+					"metadata-type":"constraint"
+				},
+				{
+					"title":"\nEnvironics Focus Canada 2011\n",
+					"metadata-type":"constraint"
+				}
+			]
+		}
+	],
+	"facets":{
+		"keyword":{
+			"type":"xs:string",
+			"facetValues":[
+				{
+					"name":"education",
+					"count":158,
+					"value":"education"
+				},
+				{
+					"name":"income",
+					"count":157,
+					"value":"income"
+				},
+				{
+					"name":"recreation",
+					"count":104,
+					"value":"recreation"
+				},
+				{
+					"name":"food",
+					"count":91,
+					"value":"food"
+				},
+				{
+					"name":"age",
+					"count":89,
+					"value":"age"
+				},
+				{
+					"name":"destination",
+					"count":83,
+					"value":"destination"
+				},
+				{
+					"name":"marital status",
+					"count":81,
+					"value":"marital status"
+				},
+				{
+					"name":"activities",
+					"count":79,
+					"value":"activities"
+				},
+				{
+					"name":"accommodation",
+					"count":74,
+					"value":"accommodation"
+				},
+				{
+					"name":"transportation",
+					"count":70,
+					"value":"transportation"
+				},
+				{
+					"name":"occupation",
+					"count":68,
+					"value":"occupation"
+				},
+				{
+					"name":"distance travelled",
+					"count":64,
+					"value":"distance travelled"
+				},
+				{
+					"name":"length of stay",
+					"count":64,
+					"value":"length of stay"
+				},
+				{
+					"name":"number in party",
+					"count":64,
+					"value":"number in party"
+				},
+				{
+					"name":"purpose of trip",
+					"count":64,
+					"value":"purpose of trip"
+				},
+				{
+					"name":"method of transportation",
+					"count":63,
+					"value":"method of transportation"
+				},
+				{
+					"name":"ports of entry and exit",
+					"count":62,
+					"value":"ports of entry and exit"
+				},
+				{
+					"name":"travel",
+					"count":60,
+					"value":"travel"
+				},
+				{
+					"name":"sports",
+					"count":59,
+					"value":"sports"
+				},
+				{
+					"name":"expenditures",
+					"count":58,
+					"value":"expenditures"
+				}
+			]
+		},
+		"series":{
+			"type":"xs:string",
+			"facetValues":[
+				{
+					"name":"International Travel Survey",
+					"count":85,
+					"value":"International Travel Survey"
+				},
+				{
+					"name":"Environics Focus Canada",
+					"count":52,
+					"value":"Environics Focus Canada"
+				},
+				{
+					"name":"Canadian Travel Survey",
+					"count":49,
+					"value":"Canadian Travel Survey"
+				},
+				{
+					"name":"Canadian International Trade Data",
+					"count":31,
+					"value":"Canadian International Trade Data"
+				},
+				{
+					"name":"Survey of Household Spending",
+					"count":31,
+					"value":"Survey of Household Spending"
+				},
+				{
+					"name":"Environics Environmental Monitor",
+					"count":27,
+					"value":"Environics Environmental Monitor"
+				},
+				{
+					"name":"Environics Focus Ontario",
+					"count":25,
+					"value":"Environics Focus Ontario"
+				},
+				{
+					"name":"Canadian Community Health Survey",
+					"count":24,
+					"value":"Canadian Community Health Survey"
+				},
+				{
+					"name":"Census of Population",
+					"count":23,
+					"value":"Census of Population"
+				},
+				{
+					"name":"Postal Code Conversion File",
+					"count":23,
+					"value":"Postal Code Conversion File"
+				},
+				{
+					"name":"International Travel Survey ITS",
+					"count":21,
+					"value":"International Travel Survey ITS"
+				},
+				{
+					"name":"Canadian Gallup Polls",
+					"count":17,
+					"value":"Canadian Gallup Polls"
+				},
+				{
+					"name":"Survey of Consumer Finances",
+					"count":14,
+					"value":"Survey of Consumer Finances"
+				},
+				{
+					"name":"National Angus Reid Polls",
+					"count":12,
+					"value":"National Angus Reid Polls"
+				},
+				{
+					"name":"General Social Survey",
+					"count":11,
+					"value":"General Social Survey"
+				},
+				{
+					"name":"Survey of Consumer Finance",
+					"count":10,
+					"value":"Survey of Consumer Finance"
+				},
+				{
+					"name":"Canada Health Monitor",
+					"count":9,
+					"value":"Canada Health Monitor"
+				},
+				{
+					"name":"Households and the Environment Survey",
+					"count":7,
+					"value":"Households and the Environment Survey"
+				},
+				{
+					"name":"Survey of Family Expenditure",
+					"count":7,
+					"value":"Survey of Family Expenditure"
+				},
+				{
+					"name":"Survey of Family Expenditures",
+					"count":7,
+					"value":"Survey of Family Expenditures"
+				}
+			]
+		},
+		"geography":{
+			"type":"xs:string",
+			"facetValues":[
+				{
+					"name":"Canada Provinces",
+					"count":133,
+					"value":"Canada Provinces"
+				},
+				{
+					"name":"Canada",
+					"count":125,
+					"value":"Canada"
+				},
+				{
+					"name":"Canada Provinces Territories",
+					"count":28,
+					"value":"Canada Provinces Territories"
+				},
+				{
+					"name":"Ontario",
+					"count":28,
+					"value":"Ontario"
+				},
+				{
+					"name":"Alberta",
+					"count":20,
+					"value":"Alberta"
+				},
+				{
+					"name":"Canadian provinces only excluding Labrador -- No territories",
+					"count":19,
+					"value":"Canadian provinces only excluding Labrador -- No territories"
+				},
+				{
+					"name":"170 Countries Continent World totals",
+					"count":17,
+					"value":"170 Countries Continent World totals"
+				},
+				{
+					"name":"Provinces",
+					"count":17,
+					"value":"Provinces"
+				},
+				{
+					"name":"Canada Over 170 Countries and Continent and World totals",
+					"count":16,
+					"value":"Canada Over 170 Countries and Continent and World totals"
+				},
+				{
+					"name":"Canada Province",
+					"count":9,
+					"value":"Canada Province"
+				},
+				{
+					"name":"Canada U S States residence of traveller",
+					"count":9,
+					"value":"Canada U S States residence of traveller"
+				},
+				{
+					"name":"Canada Overseas residence of traveller",
+					"count":8,
+					"value":"Canada Overseas residence of traveller"
+				},
+				{
+					"name":"Canada Provinces Census Metropolitan Areas",
+					"count":7,
+					"value":"Canada Provinces Census Metropolitan Areas"
+				},
+				{
+					"name":"Canada Provinces Territories CMA",
+					"count":6,
+					"value":"Canada Provinces Territories CMA"
+				},
+				{
+					"name":"Canada Provinces Territories Health Regions",
+					"count":6,
+					"value":"Canada Provinces Territories Health Regions"
+				},
+				{
+					"name":"Canada Provinces Regions",
+					"count":5,
+					"value":"Canada Provinces Regions"
+				},
+				{
+					"name":"Canadian Provinces --No Territories",
+					"count":5,
+					"value":"Canadian Provinces --No Territories"
+				},
+				{
+					"name":"Province",
+					"count":5,
+					"value":"Province"
+				},
+				{
+					"name":"Territories",
+					"count":5,
+					"value":"Territories"
+				},
+				{
+					"name":"The ten provinces Excluded from the sampling frame are Aboriginal settlements and the three territories",
+					"count":5,
+					"value":"The ten provinces Excluded from the sampling frame are Aboriginal settlements and the three territories"
+				}
+			]
+		},
+		"frequency":{
+			"type":"xs:string",
+			"facetValues":[
+				{
+					"name":"Quarterly",
+					"count":80,
+					"value":"Quarterly"
+				},
+				{
+					"name":"Annual",
+					"count":51,
+					"value":"Annual"
+				},
+				{
+					"name":"Monthly",
+					"count":39,
+					"value":"Monthly"
+				},
+				{
+					"name":"Annual 1996 - Biennial 1980-1994",
+					"count":32,
+					"value":"Annual 1996 - Biennial 1980-1994"
+				},
+				{
+					"name":"Quinquennial",
+					"count":31,
+					"value":"Quinquennial"
+				},
+				{
+					"name":"Bi-annual",
+					"count":27,
+					"value":"Bi-annual"
+				},
+				{
+					"name":"Occasional",
+					"count":20,
+					"value":"Occasional"
+				},
+				{
+					"name":"Biennial 1972 to 1982 1983 Annual 1985 to 1998 Discontinued",
+					"count":16,
+					"value":"Biennial 1972 to 1982 1983 Annual 1985 to 1998 Discontinued"
+				},
+				{
+					"name":"Series survey",
+					"count":16,
+					"value":"Series survey"
+				},
+				{
+					"name":"Biennial",
+					"count":12,
+					"value":"Biennial"
+				},
+				{
+					"name":"Annual Files discontinued in 1998 Replaced by SLID",
+					"count":9,
+					"value":"Annual Files discontinued in 1998 Replaced by SLID"
+				},
+				{
+					"name":"Data collected quarterly - annual file produced",
+					"count":9,
+					"value":"Data collected quarterly - annual file produced"
+				},
+				{
+					"name":"Quinquennial 5 year",
+					"count":7,
+					"value":"Quinquennial 5 year"
+				},
+				{
+					"name":"Usually Monthly",
+					"count":7,
+					"value":"Usually Monthly"
+				},
+				{
+					"name":"quarterly",
+					"count":6,
+					"value":"quarterly"
+				},
+				{
+					"name":"10 cohorts followed for 18 months each starting in January 1995 and ending in October 1998",
+					"count":5,
+					"value":"10 cohorts followed for 18 months each starting in January 1995 and ending in October 1998"
+				},
+				{
+					"name":"One-time data collection",
+					"count":5,
+					"value":"One-time data collection"
+				},
+				{
+					"name":"Semestriel",
+					"count":5,
+					"value":"Semestriel"
+				},
+				{
+					"name":"Series Survey",
+					"count":5,
+					"value":"Series Survey"
+				},
+				{
+					"name":"Three times a year",
+					"count":5,
+					"value":"Three times a year"
+				}
+			]
+		},
+		"language":{
+			"type":"xs:string",
+			"facetValues":[
+				{
+					"name":"en",
+					"count":646,
+					"value":"en"
+				},
+				{
+					"name":"fr",
+					"count":14,
+					"value":"fr"
+				}
+			]
+		}
+	},
+	"qtext":"(((water) OR (attr:water))) AND (coll:odesi)",
+	"report":"(cts:search(/codeBook, cts:and-query((cts:or-query((cts:word-query(\"water\", (\"case-insensitive\",\"diacritic-insensitive\",\"punctuation-insensitive\",\"wildcarded\",\"lang=en\"), 1), cts:element-attribute-range-query(fn:QName(\"\",\"var\"), fn:QName(\"\",\"name\"), \"=\", \"water\", (\"collation=http://marklogic.com/collation/en/S1\"), 1)), ()), cts:collection-query(\"http://scholarsportal.info/odesi\")), ()), (\"score-logtfidf\",\"faceted\",cts:score-order(\"descending\")), 1))[1 to 10]",
+	"metrics":{
+		"query-resolution-time":"PT0.042372S",
+		"facet-resolution-time":"PT0.008556S",
+		"snippet-resolution-time":"PT0.102752S",
+		"metadata-resolution-time":"PT0.063406S",
+		"total-time":"PT0.296731S"
+	}
+}
